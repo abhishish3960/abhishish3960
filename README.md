@@ -24,7 +24,7 @@ My strong problem-solving abilities are demonstrated by several achievements: se
 
 <p align="center"> 
   <br>Profile Visits<br>
-![Visitor Count](https://profile-counter.glitch.me/{abhishish3960}/count.svg)
+<img src="https://profile-counter.glitch.me/eaglex12/count.svg"/>
  </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
