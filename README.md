@@ -4,11 +4,17 @@
 
 <h1><b>🚀 About Me</b></h1>
 <p>
-  I'm Divyansh Singh Rathore, a passionate and dedicated Software Development Engineer currently working at basys.ai. I have a strong foundation in computer science and engineering, with a particular focus on automating complex healthcare processes, notably enhancing the efficiency of the Prior Authorization System in the US.</br>
+  I'm Abhishek Ashish, a passionate and dedicated Software Development Engineer with a recent B.Tech in Computer Science Engineering from the Rajiv Gandhi Institute of Petroleum Technology (RGIPT) [An Institute of National Importance along the lines of IITs]. I am actively seeking software-related roles where I can apply my skills and knowledge to real-world projects.</br>
+  
+Currently, I'm interning at IPexcel as an SDE intern, where I continue to hone my skills and contribute to impactful projects.</br>
 
-  My technical expertise spans across integrating advanced AI systems like ChatGPT and Claude.AI, implementing FHIR standards using HAPI FHIR and HL7 protocols, and developing scalable backend architectures. I am also proficient in full-stack development, including Django, GraphQL API, Apollo Client, ReactJS, and CSS. Additionally, I have a solid background in programming languages like C/C++, Python, and Java.</br>
+During my internship at Techila Global Services as a Salesforce Developer, I developed and customized Salesforce applications, improving processes for over 200 users and implementing workflows that reduced manual tasks by 30%. I also assisted with user setup and security settings.</br>
 
-  My problem-solving acumen is evidenced by my contributions to various projects, including resolving critical rendering issues at Shaadi.com. Academically, I have a solid grounding in DSA, demonstrated by an AIR of 15002 in JEE Advanced 2020 and completion of over 350 coding challenges.</br>
+My technical expertise spans various programming languages and technologies, including C++, Python, React, Salesforce, JavaScript, HTML, CSS, Node.js, Express.js, Flask, PostgreSQL, TypeScript, Golang, AWS, Docker and Git/GitHub. I also possess a basic understanding of AI and machine learning concepts, which I am eager to develop further.</br>
+
+My strong problem-solving abilities are demonstrated by several achievements: securing an AIR of 19506 in JEE Advanced 2020, ranking 18 in Convolve Epoch 1 conducted on Kaggle by Cisco, securing ranks of 1577 in Google Kickstart 2022 round H and 4369 in round E, and achieving a rank of 351 in Newton’s Coding Challenge. Additionally, I hold the title of "Mountaineer" in Salesforce Trailblazer.</br>
+  
+
 
   I am also excited about Open Source development and have started exploring this world.</br>
 
