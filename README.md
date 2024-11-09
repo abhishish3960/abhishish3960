@@ -6,7 +6,7 @@
 <p>
   I'm Abhishek Ashish, a passionate and dedicated Software Development Engineer with a recent B.Tech in Computer Science Engineering from the Rajiv Gandhi Institute of Petroleum Technology (RGIPT) [An Institute of National Importance along the lines of IITs]. I am actively seeking software-related roles where I can apply my skills and knowledge to real-world projects.</br>
   
-Currently, I'm interning at IPexcel as an SDE intern, where I continue to hone my skills and contribute to impactful projects.</br>
+I am gaining valuable experience as a Software Development Engineer at IPExcel, where I led the backend development of a patent-writing AI application using Go (Gin framework). This project aims to simplify the patent drafting process for over 10,000 attorneys globally. I also integrated AWS S3 for secure document storage, improving retrieval efficiency by 50%, and built AWS Lambda functions (Python) to automate text and image extraction, reducing manual data processing by 70%. Additionally, I utilized OpenAI's LLM for context-based answers and content retrieval, enhancing query response times by 40%.</br>
 
 During my internship at Techila Global Services as a Salesforce Developer, I developed and customized Salesforce applications, improving processes for over 200 users and implementing workflows that reduced manual tasks by 30%. I also assisted with user setup and security settings.</br>
 
