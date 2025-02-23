@@ -4,9 +4,9 @@
 
 <h1><b>🚀 About Me</b></h1>
 <p>
-  I'm Abhishek Ashish, a passionate and dedicated Software Development Engineer with a recent B.Tech in Computer Science Engineering from the Rajiv Gandhi Institute of Petroleum Technology (RGIPT) [An Institute of National Importance along the lines of IITs]. I am actively seeking software-related roles where I can apply my skills and knowledge to real-world projects.</br>
+  I'm Abhishek Ashish, a passionate and dedicated Software Development Engineer with a B.Tech Degree in Computer Science Engineering from the Rajiv Gandhi Institute of Petroleum Technology (RGIPT) [An Institute of National Importance along the lines of IITs]. I am actively seeking software-related roles where I can apply my skills and knowledge to real-world projects.</br>
   
-I am gaining valuable experience as a Software Development Engineer at IPExcel, where I led the backend development of a patent-writing AI application. This project aims to simplify the patent drafting process for over 10,000 attorneys globally. I also integrated AWS S3 for secure document storage, improving retrieval efficiency by 50%, and built AWS Lambda functions (Python) to automate text and image extraction, reducing manual data processing by 70%. Additionally, I utilized OpenAI's LLM for context-based answers and content retrieval, enhancing query response times by 40%.</br>
+I am gaining valuable experience as a Software Development Engineer at IPExcel, where I leading the backend development of a patent-writing AI application. This project aims to simplify the patent drafting process for over 10,000 attorneys globally. I also integrated AWS S3 for secure document storage, improving retrieval efficiency by 50%, and built AWS Lambda functions (Python) to automate text and image extraction, reducing manual data processing by 70%. Additionally, I utilized OpenAI's LLM for context-based answers and content retrieval, enhancing query response times by 40%.</br>
 
 During my internship at Techila Global Services as a Salesforce Developer, I developed and customized Salesforce applications, improving processes for over 200 users and implementing workflows that reduced manual tasks by 30%. I also assisted with user setup and security settings.</br>
 
@@ -16,7 +16,7 @@ My strong problem-solving abilities are demonstrated by several achievements: se
   
 
 
-  I am also excited about Open Source development and have started exploring this world.</br>
+  I am also excited about Open Source development.</br>
 
   📫 How to reach me: <a href="mailto:ashish.abhishek1004@gmail.com">ashish.abhishek1004@gmail.com</a>
 </p>
@@ -35,21 +35,12 @@ My strong problem-solving abilities are demonstrated by several achievements: se
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
  <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
 </p>
 
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -62,9 +53,6 @@ My strong problem-solving abilities are demonstrated by several achievements: se
  
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
